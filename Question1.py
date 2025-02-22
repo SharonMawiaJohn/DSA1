@@ -1,1 +1,1 @@
-#Alice has some cards that
+#Alice has some cards that have
